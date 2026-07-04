@@ -195,7 +195,7 @@ const sendDonationEmail = asyncHandler(async (req, res) => {
 
   const mailOptions = {
     from: process.env.AUTH_EMAIL,
-    to: "ankitvsv0311@gmail.com", // CSE Department email
+    to: process.env.ADMIN_EMAIL || "yashjha024@gmail.com", // Admin / CSE Department email
     cc: alumni.user.email, // Alumni email
     subject: "Alumni Donation Interest",
     html: `
