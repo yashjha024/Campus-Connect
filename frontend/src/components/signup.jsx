@@ -133,7 +133,7 @@ export default function Signup() {
       </div>
       <div className="w-full md:w-1/2 bg-gray-50 flex flex-col p-8 md:p-16 justify-center">
         <h3 className="text-2xl text-gray-800 font-bold mb-8 text-left">
-          BIT WEB APP
+          CAMPUS CONNECT
         </h3>
         <div className="flex flex-col w-full mb-8 text-left">
           <h3 className="text-4xl font-semibold mb-3 text-left text-black">

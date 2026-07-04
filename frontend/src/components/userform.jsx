@@ -155,7 +155,7 @@ export default function UserForm() {
   return (
     <div className="w-full min-h-screen flex justify-center items-center">
       <div className="w-full flex flex-col p-10 justify-between">
-        <h3 className="text-xl text-black font-semibold">BIT WEB APP</h3>
+        <h3 className="text-xl text-black font-semibold">CAMPUS CONNECT</h3>
         <div className="w-full flex flex-col">
           <div className="flex flex-col w-full mb-5">
             <h3 className="text-3xl font-semibold mb-4">Your Profile</h3>
